@@ -11,7 +11,11 @@ body{
 }
 table{
     width:50%;
+    margin:auto;
+    background-color: antiquewhite;
 }
+
+
 
 .background-to-blue{
     background-color: rgb(153, 153, 185);
