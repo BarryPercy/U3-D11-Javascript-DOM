@@ -1,0 +1,26 @@
+img{
+    display: block;
+    width:20%;
+    margin:auto;
+    align-content: center;
+    justify-content: center;
+}
+body{
+    background-color: beige;
+    font-family: Arial,Arial, Helvetica, sans-serif;
+}
+table{
+    width:50%;
+}
+
+.background-to-blue{
+    background-color: rgb(153, 153, 185);
+}
+
+.wavy{
+    text-decoration:overline;
+}
+
+.hideImages{
+    display:none;
+}
